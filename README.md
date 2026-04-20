@@ -235,6 +235,4 @@ Project ini dibuat untuk keperluan akademik (Tugas Kuliah Semester 5).
 
 ---
 
-<p align="center">
-  Dibuat dengan 💚 untuk bumi yang lebih hijau
-</p>
+
